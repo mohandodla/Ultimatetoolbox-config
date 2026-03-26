@@ -1,60 +1,60 @@
 {
-    "disabledTools": [],
-    "hiddenTools": [],
-    "toolMaintenanceMessages": {},
-    "temporaryUnlocks": [],
-    "promotionBanners": [],
-    "ads": {
-      "enabled": true,
-      "bannerEnabled": true,
-      "interstitialEnabled": true,
-      "interstitialFrequency": 3,
-      "interstitialCooldownSeconds": 90,
-      "rewardedEnabled": true,
-      "rewardedToolUnlockMinutes": 30,
-      "bannedAdCategories": []
-    },
-    "subscription": {
-      "trialDays": 7,
-      "showPaywallOnLaunch": false,
-      "paywallLaunchDelay": 5,
-      "showPaywallAfterToolUses": 5,
-      "discountPercentage": 0,
-      "discountMessage": "",
-      "discountExpiresAt": ""
-    },
-    "app": {
-      "minSupportedVersion": "1.0.0",
-      "latestVersion": "1.0.0",
-      "forceUpdate": false,
-      "updateUrl": {
-        "ios": "https://apps.apple.com/app/ultimate-toolbox/id000000000",
-        "android": "https://play.google.com/store/apps/details?id=com.ultimatetoolbox.app"
-      },
-      "maintenanceMode": false,
-      "maintenanceMessage": "We are performing scheduled maintenance. Please try again later.",
-      "maintenanceEndTime": "",
-      "announcements": []
-    },
-    "ui": {
-      "homeGridColumns": 2,
-      "showRecommended": true,
-      "showRecentlyUsed": true,
-      "maxRecentTools": 6,
-      "showCategoryDescriptions": true,
-      "enableAnimations": true,
-      "enableHaptics": true
-    },
-    "features": {
-      "enableNfc": true,
-      "enablePdfTools": true,
-      "enableSensorTools": true,
-      "enableNetworkTools": true,
-      "enableDarkMode": true,
-      "enableSearch": true,
-      "enableFavorites": true,
-      "enableSharing": true,
-      "enableCrashReporting": true,
-      "enableAnalytics": true
-    }
-  }
+    "disabledTools": [],
+    "hiddenTools": [],
+    "toolMaintenanceMessages": {},
+    "temporaryUnlocks": [],
+    "promotionBanners": [],
+    "ads": {
+        "enabled": true,
+        "bannerEnabled": true,
+        "interstitialEnabled": true,
+        "interstitialFrequency": 3,
+        "interstitialCooldownSeconds": 90,
+        "rewardedEnabled": true,
+        "rewardedToolUnlockMinutes": 30,
+        "bannedAdCategories": []
+    },
+    "subscription": {
+        "trialDays": 7,
+        "showPaywallOnLaunch": false,
+        "paywallLaunchDelay": 5,
+        "showPaywallAfterToolUses": 5,
+        "discountPercentage": 0,
+        "discountMessage": "",
+        "discountExpiresAt": ""
+    },
+    "app": {
+        "minSupportedVersion": "1.0.0",
+        "latestVersion": "1.0.0",
+        "forceUpdate": false,
+        "updateUrl": {
+            "ios": "https://apps.apple.com/app/ultimate-toolbox/id000000000",
+            "android": "https://play.google.com/store/apps/details?id=com.ultimatetoolbox.app"
+        },
+        "maintenanceMode": false,
+        "maintenanceMessage": "We are performing scheduled maintenance. Please try again later.",
+        "maintenanceEndTime": "",
+        "announcements": []
+    },
+    "ui": {
+        "homeGridColumns": 2,
+        "showRecommended": true,
+        "showRecentlyUsed": true,
+        "maxRecentTools": 6,
+        "showCategoryDescriptions": true,
+        "enableAnimations": true,
+        "enableHaptics": true
+    },
+    "features": {
+        "enableNfc": true,
+        "enablePdfTools": true,
+        "enableSensorTools": true,
+        "enableNetworkTools": true,
+        "enableDarkMode": true,
+        "enableSearch": true,
+        "enableFavorites": true,
+        "enableSharing": true,
+        "enableCrashReporting": true,
+        "enableAnalytics": true
+    }
+}
