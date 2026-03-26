@@ -1,8 +1,8 @@
 {
-  "disabledTools": [
+  "disabledTools": [],
+  "hiddenTools": [
     "percentage-calculator"
   ],
-  "hiddenTools": [],
   "premiumOverrides": {},
   "toolMaintenanceMessages": {},
   "temporaryUnlocks": [],
