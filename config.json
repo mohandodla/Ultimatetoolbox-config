@@ -1,10 +1,10 @@
 {
   "disabledTools": [],
-  "hiddenTools": [
-    "percentage-calculator"
-  ],
+  "hiddenTools": [],
   "premiumOverrides": {},
-  "toolMaintenanceMessages": {},
+  "toolMaintenanceMessages": {
+    "discount-calculator": "maintenance"
+  },
   "temporaryUnlocks": [],
   "promotionBanners": [],
   "promoCodes": {},
