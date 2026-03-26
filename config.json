@@ -17,7 +17,7 @@
     "bannedAdCategories": []
   },
   "subscription": {
-    "trialDays": 7,
+    "trialDays": 6,
     "showPaywallOnLaunch": false,
     "paywallLaunchDelay": 5,
     "showPaywallAfterToolUses": 5,
