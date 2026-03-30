@@ -1,11 +1,11 @@
 {
+  "promoCodes": {},
   "disabledTools": [],
   "hiddenTools": [],
   "premiumOverrides": {},
   "toolMaintenanceMessages": {},
   "temporaryUnlocks": [],
   "promotionBanners": [],
-  "promoCodes": {},
   "ads": {
     "enabled": true,
     "bannerEnabled": true,
@@ -49,7 +49,7 @@
     "enableHaptics": true
   },
   "features": {
-    "enableNfc": true,
+    "enableNfc": false,
     "enablePdfTools": true,
     "enableSensorTools": true,
     "enableNetworkTools": true,
