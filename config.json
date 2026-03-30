@@ -18,7 +18,7 @@
   },
   "subscription": {
     "trialDays": 6,
-    "showPaywallOnLaunch": false,
+    "showPaywallOnLaunch": true,
     "paywallLaunchDelay": 5,
     "showPaywallAfterToolUses": 5,
     "discountPercentage": 0,
