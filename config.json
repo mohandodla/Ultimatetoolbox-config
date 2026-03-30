@@ -4,7 +4,14 @@
   "hiddenTools": [],
   "premiumOverrides": {},
   "toolMaintenanceMessages": {},
-  "temporaryUnlocks": [],
+  "temporaryUnlocks": [
+    {
+      "toolId": "",
+      "expiresAt": "2026-04-06T20:43:34.835Z",
+      "reason": "promotional",
+      "message": "Free for a limited time!"
+    }
+  ],
   "promotionBanners": [],
   "ads": {
     "enabled": true,
@@ -28,12 +35,12 @@
   "app": {
     "minSupportedVersion": "1.0.0",
     "latestVersion": "1.0.0",
-    "forceUpdate": false,
+    "forceUpdate": true,
     "updateUrl": {
       "ios": "https://apps.apple.com/app/ultimate-toolbox/id000000000",
       "android": "https://play.google.com/store/apps/details?id=com.ultimatetoolbox.app"
     },
-    "maintenanceMode": false,
+    "maintenanceMode": true,
     "maintenanceMessage": "We are performing scheduled maintenance. Please try again later.",
     "maintenanceEndTime": "",
     "announcements": [],
