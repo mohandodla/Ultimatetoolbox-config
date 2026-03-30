@@ -49,7 +49,7 @@
     "enableHaptics": true
   },
   "features": {
-    "enableNfc": false,
+    "enableNfc": true,
     "enablePdfTools": true,
     "enableSensorTools": true,
     "enableNetworkTools": true,
