@@ -49,7 +49,7 @@
   "ui": {
     "homeGridColumns": 2,
     "showRecommended": false,
-    "showRecentlyUsed": true,
+    "showRecentlyUsed": false,
     "maxRecentTools": 6,
     "showCategoryDescriptions": true,
     "enableAnimations": true,
