@@ -35,7 +35,7 @@
   "app": {
     "minSupportedVersion": "1.0.0",
     "latestVersion": "1.0.0",
-    "forceUpdate": true,
+    "forceUpdate": false,
     "updateUrl": {
       "ios": "https://apps.apple.com/app/ultimate-toolbox/id000000000",
       "android": "https://play.google.com/store/apps/details?id=com.ultimatetoolbox.app"
@@ -43,7 +43,9 @@
     "maintenanceMode": true,
     "maintenanceMessage": "We are performing scheduled maintenance. Please try again later.",
     "maintenanceEndTime": "",
-    "announcements": [],
+    "announcements": [
+      "test"
+    ],
     "releaseNotes": []
   },
   "ui": {
