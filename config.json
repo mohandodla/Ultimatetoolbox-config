@@ -5,22 +5,7 @@
   "premiumOverrides": {},
   "toolMaintenanceMessages": {},
   "temporaryUnlocks": [],
-  "promotionBanners": [
-    {
-      "id": "promo-1774903359438",
-      "title": "New Promotion",
-      "message": "Description here",
-      "type": "promo",
-      "backgroundColor": "#16A34A",
-      "textColor": "#FFFFFF",
-      "startDate": "2026-03-30T20:42:39.438Z",
-      "endDate": "2026-04-06T20:42:39.438Z",
-      "targetAudience": "all",
-      "priority": 1,
-      "dismissible": true,
-      "showOnce": false
-    }
-  ],
+  "promotionBanners": [],
   "ads": {
     "enabled": true,
     "bannerEnabled": true,
