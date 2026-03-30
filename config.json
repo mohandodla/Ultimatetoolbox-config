@@ -48,7 +48,7 @@
   },
   "ui": {
     "homeGridColumns": 2,
-    "showRecommended": true,
+    "showRecommended": false,
     "showRecentlyUsed": true,
     "maxRecentTools": 6,
     "showCategoryDescriptions": true,
