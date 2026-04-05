@@ -44,7 +44,15 @@
     "maintenanceMessage": "We are performing scheduled maintenance. Please try again later.",
     "maintenanceEndTime": "",
     "announcements": [],
-    "releaseNotes": []
+    "releaseNotes": [
+      {
+        "version": "1.9.8",
+        "date": "2026-04-05",
+        "highlights": [
+          "Complete visual and Standardized animations."
+        ]
+      }
+    ]
   },
   "ui": {
     "homeGridColumns": 2,
