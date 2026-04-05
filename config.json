@@ -12,7 +12,22 @@
       "message": "Free for a limited time!"
     }
   ],
-  "promotionBanners": [],
+  "promotionBanners": [
+    {
+      "id": "promo-1775410899757",
+      "title": "New Promotion",
+      "message": "Description here",
+      "type": "promo",
+      "backgroundColor": "#16A34A",
+      "textColor": "#FFFFFF",
+      "startDate": "2026-04-05T17:41:39.757Z",
+      "endDate": "2026-04-12T17:41:39.757Z",
+      "targetAudience": "all",
+      "priority": 1,
+      "dismissible": true,
+      "showOnce": true
+    }
+  ],
   "ads": {
     "enabled": true,
     "bannerEnabled": true,
