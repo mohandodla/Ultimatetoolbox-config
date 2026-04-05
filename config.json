@@ -26,14 +26,14 @@
     "discountExpiresAt": ""
   },
   "app": {
-    "minSupportedVersion": "1.9.9",
-    "latestVersion": "1.9.9",
-    "forceUpdate": true,
+    "minSupportedVersion": "1.9.7",
+    "latestVersion": "1.9.8",
+    "forceUpdate": false,
     "updateUrl": {
       "ios": "https://apps.apple.com/app/ultimate-toolbox/id000000000",
       "android": "https://play.google.com/store/apps/details?id=com.ultimatetoolbox.app"
     },
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "maintenanceMessage": "We are performing scheduled maintenance. Please try again later.",
     "maintenanceEndTime": "2026-04-05T18:45:00.000Z",
     "announcements": [],
