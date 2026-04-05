@@ -1,5 +1,12 @@
 {
-  "promoCodes": {},
+  "promoCodes": {
+    "HEY": {
+      "type": "premium_days",
+      "value": 7,
+      "maxUses": 100,
+      "expiresAt": "2026-07-04T17:42:43.709Z"
+    }
+  },
   "disabledTools": [],
   "hiddenTools": [],
   "premiumOverrides": {},
