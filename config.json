@@ -3,7 +3,9 @@
   "disabledTools": [],
   "hiddenTools": [],
   "premiumOverrides": {},
-  "toolMaintenanceMessages": {},
+  "toolMaintenanceMessages": {
+    "qr-generator": "Maintenance"
+  },
   "temporaryUnlocks": [
     {
       "toolId": "",
